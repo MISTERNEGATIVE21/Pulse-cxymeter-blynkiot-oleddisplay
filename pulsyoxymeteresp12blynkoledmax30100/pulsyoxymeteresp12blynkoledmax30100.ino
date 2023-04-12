@@ -5,9 +5,9 @@
  *************************************************************/
 
 /* Fill-in information from Blynk Device Info here */
-#define BLYNK_TEMPLATE_ID           "TMPLp0Y7gvNg"
-#define BLYNK_TEMPLATE_NAME         "Quickstart Device"
-#define BLYNK_AUTH_TOKEN            "QaeyhN6k4wJzMvK6W3flZ_hhsrMFfG4v"
+#define BLYNK_TEMPLATE_ID           "TMP"
+#define BLYNK_TEMPLATE_NAME         ""
+#define BLYNK_AUTH_TOKEN            "QahhsrMFfG4v"
 
 /* Comment this out to disable prints and save space */
 #define BLYNK_PRINT Serial
@@ -25,8 +25,8 @@
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Rickswifi";
-char pass[] = "ricksuvo101";
+char ssid[] = "";
+char pass[] = "r1";
 
 BlynkTimer timer;
 
